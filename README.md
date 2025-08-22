@@ -7,16 +7,40 @@ This repository showcases my projects, insights, and case studies that blend **a
 
 ## 🔹 About Me
 - 🎓 Certified in **Cybersecurity** and pursuing **Advanced Data Analytics**.
-- 💼 2+ years experience in **Marketing & Business Growth Strategy**.
+- 💼 5+ years of experience in **Marketing, Sales, and Business Growth Strategy**.
 - 📈 Skilled in **Data Analysis (Excel, SQL, Python, Power BI)** and **Marketing (SEO, Social Media, Campaign Analytics)**.
-- 🌍 Open to collaboration on data-driven marketing projects.  
+- 🌍 Passionate about building data-driven solutions that deliver measurable business impact.  
 
 ---
-## 📂 Projects
-1. **Customer Segmentation Analysis** – Using Python & Excel to segment audiences for targeted campaigns.  
-2. **Marketing Campaign Dashboard** – Interactive dashboard in Power BI tracking conversions, ROI, and engagement.  
-3. **Social Media Analytics** – Extracted insights from Facebook/TikTok data to boost content strategy.  
-4. **Sales & Collections Data Insights** – Data visualization of sales and collections performance trends.  
+
+## 📂 Featured Projects
+
+### **1. Vic Solutions – Marketing Revamp**
+- Developed a **new brand identity** including logo and banners  
+- Created a **social media content strategy**  
+- Grew engagement and follower base by **50** in 15 days  
+- Tools: Canva, Meta Ads Manager, Excel  
+
+### **2. Red’s Delights – Brand Relaunch**
+- Designed **visual brand mood board and social media templates**  
+- Coordinated **pre-order campaigns and hampers featuring local products**  
+- Created **content calendar and marketing strategy** for healthy snacks launch  
+- Tools: Canva, Meta Ads, Excel  
+
+### **3. RedForge – Social Media & Lead Generation**
+- Managed **campaigns to generate leads for 3D metal and plastic printing services**  
+- Analyzed performance metrics and optimized campaigns for **better ROI**  
+- Tools: Excel, Meta Ads Manager, Google Analytics  
+
+### **4. Tshwaraganang Agric – Market & Data Analytics**
+- Conducted **market analysis for small-scale hydroponic farming and healthy snack production**  
+- Designed **Excel dashboards to track crop yields, costs, and sales**  
+- Tools: Excel, Google Sheets, Power BI  
+
+### **5. CV & Career Analytics Projects**
+- Developed **data-driven insights for CV and profile revamp projects**  
+- Built **dashboards tracking job application trends and success metrics**  
+- Tools: Excel, SQL, Tableau 
 
 ---
 
